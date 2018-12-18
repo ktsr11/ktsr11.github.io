@@ -20,8 +20,8 @@ title                    : "My Blog" #블로그 좌측상단의 제목
 title_separator          : "My Skill"
 name                     : "tornato28"
 description              : "record my skills Website"
-url                      : "https://tornato28.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "ktsr11/tornato28.github.io" # the subpath of your site, e.g. "/blog"
+url                      : "https://ktsr11.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "ktsr11/ktsr11.github.io" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
